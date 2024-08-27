@@ -1,3 +1,12 @@
+# Oviya Arulraj's First CS193 Homework
+- that we made a website
+- that we got to make a GitHub account for homework
+- the time CS193 is a perfect time for class
+- that my friends are in my CS193 lecture class
+- PSO meeting times are also good
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
